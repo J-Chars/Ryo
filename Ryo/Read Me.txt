@@ -1,0 +1,72 @@
+- Ryo Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Ryo? 
+
+ A : Ryo is yet another decent SNK character I can tackle. Now that I've gotten used to the whole SNK side, I can
+     definitely branch out onto other franchises.
+
+
+ Q : What's his playstyle like?
+
+ A : Ryo plays mainly like his CvS2 appearance, however there are some KOF elements in his mobility, frame data,
+     hitboxes, etc.
+
+
+ Q : How do you play Ryo?
+
+ A : Ryo plays like any average shoto. He has a fireball, a DP, and a horizontal kick move. He has a lot more tools
+     than the average shoto, however. His aerial Hien Shippuu Kyaku works as a decent jump in. His Moko Raijinsetsu
+     chop can easily work as an air-to-air, however it is easily reactible. His DPs can actually link into followups,
+     and this is particularly useful for Super confirms. Once Ryo lands a DP, the user can buffer a Haoh Shokoken, or
+     a Ryuko Ranbu, and the move will hit. Ryo is definitely reliant on his combos, and his high execution juggles can
+     do some heavy damage. However, in terms of mobility, Ryo is lacking in that area. He can use moves like standing
+     HP or standing MK to keep a good neutral game, since those are his only two normals with good range and frame data.
+     Other that that however, he is quite sluggish, but in return he has incredibly high damaging combos. So while at
+     longer ranges, Ryo is weaker, but if you manage to close the gap, he has plenty of tools to dish some serious damage.
+
+
+ Q : How does Mr. Karate II work?
+
+ A : Mr. Karate II is Ryo but a million times better. The mobility that Ryo didn't have is present in Karate II, as his
+     movement is just so much faster than Ryo. Mr. Karate II also keeps Ryo's incredible juggles and then some. His damage
+     scaling is slightly increased, but the amount of creative combos that Karate II can do is beyond basic. He gains a 
+     new special move in the Kyokugenryu Renbuken. This move thrown out raw isn't exactly the best move, since the recovery
+     times are a bit much, however this move is incredible for combo enders and extenders, since Ryo can juggle off of this
+     move. Most of his other specials become different too. His Ko'oken is an actual projectile other than a short ranged 
+     blast. His DP can juggle into more moves than normal Ryo, and his Hien Shippuu Kyaku also has more juggling ability.
+     His EX Hien Shippuu Kyaku actually causes wall bounce instead of getting a free DP or super in as seen in normal Ryo.
+     Not only does Mr. Karate II have insane movement and good combos, his supers are also modified. His Haoh Shokoken is
+     much taller, meaning it works as a fail-proof anti-air, unless it's blocked. His Ryuko Ranbu is taken from Mr. Karate's,
+     and deals a lot more damage. He also gets a raging storm and deadly rave, and his Ichigeki Hissatsu becomes a counter.
+     Mr. Karate II plays well in the offensive end, and lacks a bit on defense.
+
+
+  = BEGINNER COMBOS =
+
+ cr.LP xx cr.LP xx cr.LK xx Hien Shippuu Kyaku
+
+ cr.MP, cr.LK xx Ko'oken
+
+ HP xx LP.Kohou, Ryuko Ranbu
+
+ HP xx EX.Ko'oken, Dash Super Jump, a.HK xx Aerial Hien Shippuu Kyaku
+
+ cr.LP xx cr.LK xx EX Ko'oken, Moko Raijinsetsu
+
+
+  = CUSTOM COMBOS =
+
+ AHK, Install, repeat (HP), Ryuko Ranbu
+
+ AHK, Install, repeat (Hien Shippuu Kyaku), Ryuko Ranbu
+
+
+ = CREDITS =
+
+  Ryu from the Streets(TM) - SFF
+
+  Trololo - Feedback

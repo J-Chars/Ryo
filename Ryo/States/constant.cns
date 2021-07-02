@@ -1,0 +1,153 @@
+;-----------------------
+;-| RYO by JtheSaltyy |-
+;-----------------------
+;  - CONSTANTS FILE -
+;-----------------------
+
+;================================
+
+[Data]
+life = 1000
+power = 3000
+attack = 100
+defence = 100
+fall.defence_up = 50
+lieDown.time = 60
+airJuggle = 15
+sparkno = -1
+guard.sparkNo = s7001
+KO.echo = 0
+volume = 128
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xScale = 1
+yScale = 1
+ground.back = 15
+ground.front = 15
+air.back = 15
+air.front = 15
+height = 60
+attack.dist = 160
+proj.attack.dist = 90
+proj.doScale = 0
+head.pos = 0 , -92
+mid.pos = -7, -53
+shadowOffset = -1
+draw.offset = 0,0
+
+;================================
+
+[Velocity]
+walk.fwd = 2.5
+walk.back = -1.5
+run.fwd = 4.625, -4.75
+run.back = -6.25, -6.25
+jump.neu = 0, -9
+jump.fwd = 2.6094
+jump.back = -2.7206
+runJump.fwd = 3.5441, -11.47
+runJump.back = -4.1309, -10.47
+airjump.neu = 0,-6.5
+airjump.back = -2.8
+airjump.fwd = 2.8
+
+;================================
+
+[Movement]
+airJump.num = 0
+airJump.height = 0
+yAccel = 0.595
+stand.friction = 0.85
+crouch.friction = 0.82
+stand.friction.threshold = 1.0
+crouch.friction.threshold = 1.0
+air.gethit.groundLevel = 25
+air.gethit.groundRecover.ground.threshold = -20
+air.gethit.groundRecover.groundLevel = 10
+air.gethit.airRecover.threshold = -1
+air.gethit.airRecover.yAccel = 0.35
+air.gethit.trip.groundLevel = 15
+down.bounce.offset = 0, 20
+down.bounce.yAccel = 0.4
+down.bounce.groundLevel = 12
+down.friction.threshold = 0.5
+
+;================================
+
+[Quotes]
+
+;=[ RYO QUOTES ]=
+
+victory1 = "What happened out there, huh? Where was the fight?"
+victory2 = "When I said you will catch these hands, I meant it, pal."
+victory3 = "Kyokugenryu is the best fighting style."
+victory4 = "Oh, you want some more? Get up and you'll get some more."
+victory5 = "So what happened to dropping me, huh? Where was the hands I was supposedly gonna get, huh?"
+victory6 = "You're too slow for these moves. Pick up the pace, will ya?"
+victory7 = "My dad's legacy is a big one to uphold, so I mean business whenever I fight."
+victory8 = "I've got the brains and the brawn to take anyone down."
+victory9 = "Trust me, I know what it feels like to lose. It sucks, but I never lost this bad."
+victory10 = "Hey, what's going on? Was the Kyokugenryu style too much for you?"
+
+;=[ MR. KARATE II QUOTES ]=
+
+victory11 = "I don't got all day for this."
+victory12 = "I am the one and only Mr. Karate. You won't find another guy like it."
+victory13 = "Come on, dude. Throw a punch that can do some damage on me."
+victory14 = "You think you can beat Kyokugenryu? Nice try, pal. You can't."
+victory15 = "You should have watched my hands. Now your ass is layed out. I wonder why."
+victory16 = "Those were some sloppy ass kicks. You won't hurt anyone with those."
+victory17 = "So, are we done here? You wanted this beating, so I'm just asking."
+victory18 = "You got skill, but don't think you could beat me with those moves, kiddo."
+victory19 = "If you talk shit about the Kyokugenryu style, you better be ready to fight the Kyokugenryu master."
+victory20 = "I hope we have a janitor around to clean up this pile of trash on the floor."
+
+
+;=[ SPECIAL QUOTES ]=
+
+;Top is normal Ryu
+;Bottom is Mr. Karate II
+
+;VS Dan
+victory21 = "... And just who are you? Why are you taking my moves..? You are one weird dude."
+victory31 = "Stop copying people, man. Find some originality."
+
+;VS Ryu
+victory22 = "Why does everyone think I'm copying you?? I'm clearly the better fighter!"
+victory32 = "Sorry, bud, but you're moves are lacking compared to mine. Right now YOU'RE looking like the copy."
+
+;VS Geese
+victory23 = "Finally, I've stopped you Geese. Now, get up and pay the price for messing with me."
+victory33 = "I find it funny how your ego and arrogance lets you become so vulnerable to my attacks."
+
+;VS Yuri
+victory24 = "I know you're my sis, but people won't think that with your kind of fighting."
+victory34 = "Before you take my role, you better train hard, because I'm not seeing Miss Karate in you right now."
+
+;VS Terry
+victory25 = "I was looking for the 'Hungry Wolf' in that fight, and not some high school jockey wannabe."
+victory35 = "Where did all that wild ambition go, 'Wild Wolf?'"
+
+;VS Takuma
+victory26 = "Come on, pops. You can't keep up with me anymore, just accept it."
+victory36 = "Don't worry, pops. Your legacy continues with me."
+
+;VS Ryo
+victory27 = "So you claim to be THE Ryo Sakazaki. Nonsense, that Ko'oken looked more like a Hadouken to me."
+victory37 = "This guy really thinks he's me. You want to see what a beating from me really feels like?"
+
+;VS Robert
+victory28 = "That Ko'oken is looking kinda stubby compared to mine. Stop slacking dude."
+victory38 = "You may be my rival, but you gotta keep up with me if you want to look like my rival."
+
+;VS Mr. Big
+victory29 = "I'm still not over you kidnapping my sister. You're about to get some of these hands, fatso."
+victory39 = "Ah, another one of Geese's lackeys that does his dirty work for him."
+
+;VS Mr. Karate
+victory30 = "Not even that mask can intimidate me anymore. Looks like Father Time is creeping up on you."
+victory40 = "I think it's about time you pass the torch, old man. You're not fit for the role anymore."

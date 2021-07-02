@@ -1,0 +1,256 @@
+=================
+RYO by JtheSaltyy
+=================
+||
+||
+||
+=========
+MOVELIST
+=========
+||
+====
+KEY
+====
+D - Down
+U - Up
+B - Back
+F - Forward
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+===========
+DISCLAIMER
+===========
+
+-Before reading the movelist, always assume that all the moves are ground only, unless it is said otherwise.
+
+-Always assume the player is facing to the right.
+
+===========
+MOVE GUIDE
+===========
+
+========
+SYSTEM
+========
+
+Move: Dodge
+Description: Ryo quickly dodges any attacks.
+Command: LP + LK
+PROPERTIES
+-Invulnerability for 6 frames
+
+Move: Evade
+Description: Ryo rolls out of any attacks. He can be thrown however.
+Command: LP + LK + Direction (Back/Forward)
+PROPERTIES
+-Invulnerability for the entire animation
+-Not invincible to throws
+
+Move: Power Charge
+Description: Ryo slowly charges his power
+Command: (Hold) MP + MK
+PROPERTIES
+-None
+
+Move: Alpha Counter
+Description: Ryo counters an attack with his own, which is a guarunteed hit.
+Command (While in Block Stun) MP+MK
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Counter Movement
+Description: Ryo counters an attack and moves out of the way.
+Command (While in Block Stun) MP+MK + Direction (Forward for Roll, Backward for Backdash)
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Advancing Guard
+Description: Ryo pushes the opponent away and returns the game to neutral
+Command: (While in Block Stun) LP + LK
+PROPERTIES
+-None
+
+Move: Custom Combo
+Description: Ryo can cancel any move he wants.
+Command: HP + HK
+Meter Cost: What ever the meter is at
+PROPERTIES
+-Can cancel any move into itself or others
+-Temporary Effect
+-Cannot activate MAX Mode, use EX Moves, or supers
+-Cannot activate if MAX Mode is already active
+-Duration is affected by how much meter Ryo has before using Custom Combo
+
+=========
+THROWS
+=========
+
+Move: Kick Back Toss
+Description: Ryo throws his opponent backwards.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, Recoverable
+
+Move: Kyokugenryu Chop
+Description: Ryo delivers a chop to the opponent.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, No Recovery
+
+=========
+SPECIALS
+=========
+
+Move: Ko'oken
+Desciption: Ryo travels forward a little bit. This fireball is actually a short ranged blast, like
+KOF '95. However, in Karate mode, it becomes a true projectile.
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Hard Knockdown (Normal Only)
+-Wall Bounce (EX)
+
+Move: Kohou
+Description: Ryo performs a dragon punch.
+Command: F, D, DF, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Juggleable (EX / Karate II)
+
+Move: Aerial Ko'oken
+Description: Ryo shoots a diagonal fireball downwards
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Air Only
+-Hard Knockdown (EX)
+
+Move: Hien Shippuu Kyaku
+Description: Ryo lunges forward in an outward kick position. On HP/EX, an extra kick is added
+at the end, which can be juggled off of.
+Command: Grounded : (Hold) DB, F, K (2K for EX) / Aerial : F, DF, D, DB, B, K (2K for EX)
+PROPERTIES
+-Air Okay
+-Hard Knockdown
+-Juggleable (EX / Karate II)
+
+Move: Zanretsuken
+Description: Ryo performs a flurry of punches.
+Command: F, B, F, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Wall Bounce (EX Only)
+
+Move: Moko Raijinsetsu
+Description: Ryo jumps forward and performs a chop that can send the opponent flying downwards.
+Command: B, D, DB, P (2P for EX)
+PROPERTIES
+-Hard Knockdown (Normal)
+-Ground Bounce (EX Only)
+
+Move: Kyokugenryu Renbuken
+Description: Ryo performs a punch. If it connects, he punches three more times.
+Command: F, DF, D, DB, B, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Juggleable (LP/MP/HP)
+-Karate II Only
+
+========
+SUPERS
+========
+
+Move: Haoh Shokoken
+Description: Ryo shoots a large fireball that travels incredibly fast.
+Command: F, B, DB, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Ryuko Ranbu
+Description: Ryo dashes forward. If he makes contact with the opponent, he performs
+a flurry of moves before ending in a DP or Haoh Shokoken, depending on the mode. This
+is Ryo's best combo ender with meter.
+Command: D, DF, F, D, DB, B, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Kyokugenryu Ranbu
+Description: Ryo performs the Kyokugenryu Renbuken. If it hits, he does a Zanretsuken and
+ends in a big uppercut.
+Command: D, DB, B, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Kogeki Hissatsu
+Description: Ryo summons a giant fire pillar that covers a large vertical distance.
+Command: DB, F, DF, D, DB, B, DF, P
+Meter Cost: 2
+PROPERTIES
+-Normal Ryo Only
+-Hard Knockdown, No Recovery
+
+Move: Double Haoh Shokoken
+Description: Ryo performs an uppercut. If it connects, he performs a team super with
+Robert Garcia, ending in a double Haoh Shokoken.
+Command: F, DF, D, DB, B, F, DF, D, DB, B, P
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Double Ryuko Kohou
+Description: Ryo performs two powerful DPs. It works as a damaging combo ender or anti-air.
+Command: D, DB, B, D, DF, F, 2K
+Meter Cost: 2
+PROPERTIES
+-Karate II Only
+-Hard Knockdown, No Recovery
+
+Move: Deadly Rave
+Description: Ryo dashes forward. Once the move hits, there's a short bit of pause time. This super
+requires the player to input a certain set of commands to get the move in it's entirety, and after
+each hit, the player inputs the next command, before climaxing.
+
+Note that the comma separates each individual hit, so after you land that first hit, then input the
+next command, and after you've hit that move, input the next command in line, and repeat until
+you've reached the QCB+P ender. The top  "Command" is the input to actually perform the Deadly
+Rave, and the bottom one is the set of commands you press after that first initial hit.
+
+Command: F, DF, D, DB, B, F, K
+Command (after initial hit): HP, HP, HK, HK, MP, MK, LP, LK, D, DF, F, P
+
+Meter Cost: 2
+PROPERTIES
+-Karate II Only
+-Hard Knockdown, No Recovery
+
+Move: Ichigeki Hissatsu
+Description: Ryo performs a big punch. If it connects, then it causes an instant stun, which is why
+the damage is poor for a level 3. However, in Karate II mode, Ryo performs a quick pose. If the opponent
+hits Ryo while in this pose, he chops the opponent and then performs the punch. This move causes Level 3
+damage, and does not cause stun and cannot be comboed out of.
+Command: D, DF, F, D, DF, F, 2P
+Meter Cost: 3
+PROPERTIES
+-Counter (Karate II)
+-Instant Stun (Normal)
+-Hard Knockdown, No Recovery
+-MAX Super
+
+==================
+
+i hope you enjoy!
+
